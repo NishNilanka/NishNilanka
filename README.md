@@ -4,7 +4,7 @@
 🤖 **Machine Learning Engineer | AI Engineer | Research Engineer**  
 🌏 **Applied AI, Edge Intelligence & Decision Systems**
 
-I design and build **production-ready AI systems** — from research-grade ML models to scalable backend services. My work focuses on **bridging theory and practice**, delivering AI solutions that are **accurate, efficient, and deployable in real-world environments**.
+I design and build **production-ready AI systems**, from research-grade ML models to scalable backend services. My work focuses on **bridging theory and practice**, delivering AI solutions that are **accurate, efficient, and deployable in real-world environments**.
 
 ---
 
@@ -70,14 +70,16 @@ I design and build **production-ready AI systems** — from research-grade ML mo
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### ML / AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat)
 
 ### Backend & Infra
