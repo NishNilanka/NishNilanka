@@ -110,6 +110,8 @@ I design and build **production-ready AI systems**, from research-grade ML model
 ## 🤝 Let’s Connect
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/nishanng/
+- 📚 **Google Scholar:** https://scholar.google.com/citations?user=ABiwGQwAAAAJ
+
 <!-- 📫 Email: yourname@email.com -->
 <!-- 🌐 Website: https://your-site.com -->
 
