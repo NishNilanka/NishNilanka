@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Nishan Nilanka
+## 👋 Hi, I’m Nishan Gunawardena
 
 🎓 **PhD in Computer Science**  
 🤖 **Machine Learning Engineer | AI Engineer | Research Engineer**  
@@ -87,18 +87,11 @@ I design and build **production-ready AI systems** — from research-grade ML mo
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishNilanka&show_icons=true&hide_title=true&cache_seconds=21600)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishNilanka&layout=compact&cache_seconds=21600)
-
----
-
 ## 📚 Research Background
 
 - 🎓 PhD in **Machine Learning & Edge Computing**
 - 📄 Publications in **Q1 journals and international conferences**
-- 🏆 Award winner – *Visualise Your Thesis*
+- 🏆 Award winner – **Best PhD Thesis in 2024**
 - 🔍 Strong emphasis on **reproducibility, evaluation, and deployment**
 
 ---
