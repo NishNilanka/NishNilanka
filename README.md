@@ -55,13 +55,14 @@ I design and build **production-ready AI systems** — from research-grade ML mo
 ---
 
 ### 🔹 [FieldTrackAI](https://github.com/NishNilanka/FieldTrackAI)
-**AI-Driven Field Data Tracking & Analytics Platform**
+**LLM + RAG-Powered Field Work Tracking via Telegram**
 
-- End-to-end data ingestion and analytics pipeline
-- Designed for real-world field deployment
-- Emphasis on automation and actionable insights
+- Telegram bot interface for capturing field updates in real time  
+- Uses **LLMs** + **RAG** to retrieve project context and generate consistent, structured reports  
+- Supports summarisation, change tracking, and status reporting from field messages  
+- Designed for practical deployment where mobile-first communication is essential  
 
-**Focus:** Applied AI · Data Pipelines · AI Systems
+**Focus:** LLMs · RAG · Telegram API · Applied AI Systems
 
 ---
 
@@ -88,8 +89,8 @@ I design and build **production-ready AI systems** — from research-grade ML mo
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishNilanka&show_icons=true&hide_title=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishNilanka&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NishNilanka&show_icons=true&hide_title=true&cache_seconds=21600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishNilanka&layout=compact&cache_seconds=21600)
 
 ---
 
@@ -114,8 +115,8 @@ I design and build **production-ready AI systems** — from research-grade ML mo
 ## 🤝 Let’s Connect
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/nishanng/
-- 📫 **Email:** *(add if you want)*
-- 🌐 **Portfolio / Website:** *(optional)*
+<!-- 📫 Email: yourname@email.com -->
+<!-- 🌐 Website: https://your-site.com -->
 
 ---
 
