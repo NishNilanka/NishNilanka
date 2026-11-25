@@ -54,18 +54,6 @@ I design and build **production-ready AI systems**, from research-grade ML model
 
 ---
 
-### 🔹 [FieldTrackAI](https://github.com/NishNilanka/FieldTrackAI)
-**LLM + RAG-Powered Field Work Tracking via Telegram**
-
-- Telegram bot interface for capturing field updates in real time  
-- Uses **LLMs** + **RAG** to retrieve project context and generate consistent, structured reports  
-- Supports summarisation, change tracking, and status reporting from field messages  
-- Designed for practical deployment where mobile-first communication is essential  
-
-**Focus:** LLMs · RAG · Telegram API · Applied AI Systems
-
----
-
 ## 🧰 Tech Stack
 
 ### Languages
